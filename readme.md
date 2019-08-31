@@ -24,7 +24,7 @@ This project proposes and implements a cognitive chat bot system that proposes a
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![chatbot](https://live.staticflickr.com/65535/47972358351_01510dcc1e.jpg)](https://drive.google.com/file/d/1FhxCXpStMn6lju7eKJkGpQHid2nw8l_j/view?usp=sharing "hex_chatbot")
+[![chatbot](https://live.staticflickr.com/65535/47972358351_01510dcc1e.jpg)](https://drive.google.com/uc?id=1htAehun8cSHfSUIJ91mKY9gBikEmGsYb&export=download "Yellow Pages")
 
 ---
 ## SECTION 5 : USER GUIDE
